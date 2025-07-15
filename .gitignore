@@ -1,0 +1,17 @@
+node_modules/
+.env
+*.log
+__pycache__/
+.DS_Store
+*.pyc
+.idea/
+.vscode/
+*.zip
+
+# AWS build artifacts
+.serverless/
+.aws-sam/
+build/
+dist/
+
+Thumbs.db
